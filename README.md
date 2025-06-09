@@ -1,21 +1,7 @@
 <!-- README for GitHub profile: @proudastronaut | Cosmic Minimalist Theme -->
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/novatorem/novatorem/master/assets/space-banner.svg" width="100%" alt="Cosmic Banner"/>
-
-<br />
-
 # 👨‍🚀 Hi, I'm proudastronaut  
 ### *Data Scientist | ML Explorer | Space-Coded Thinker*
-
-</div>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/proudastronaut/proudastronaut/main/assets/cosmo.gif" width="900px" alt="Saturn" />
-
-</div>
 
 ---
 
