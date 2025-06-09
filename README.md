@@ -13,9 +13,7 @@
 
 <div align="center">
 
-🪐  
-<img src="https://raw.githubusercontent.com/proudastronaut/proudastronaut/main/assets/cosmo.gif" width="90px" alt="Saturn" />
-🪐  
+<img src="https://raw.githubusercontent.com/proudastronaut/proudastronaut/main/assets/cosmo.gif" width="900px" alt="Saturn" />
 
 </div>
 
