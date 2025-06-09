@@ -6,7 +6,7 @@
   <tr>
     <td>
 
-<h1>👨‍🚀 Hi, I'm proudastronaut</h1>
+<h1>👨‍🚀 Hi, I'm proudastronaut!</h1>
 <h3><i>Data Scientist | ML Explorer | Space-Coded Thinker</i></h3>
 
 ---
