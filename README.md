@@ -53,8 +53,3 @@ Fueled by curiosity, code, and coffee ☕🚀
 </p>
 
 ---
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D3C&height=100&section=footer&text=Thanks%20for%20exploring%20my%20universe%20🚀&fontColor=FFFFFF&fontSize=16" />
-</div>
-
