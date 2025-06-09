@@ -1,4 +1,4 @@
-<!-- Cosmic-Themed GitHub Profile README for Data Scientist -->
+<!-- README for GitHub profile: @proudastronaut | Cosmic Minimalist Theme -->
 
 <div align="center">
 
@@ -6,17 +6,17 @@
 
 <br />
 
-# 👩‍🚀 Hi, I'm [Your Name]  
-### *Data Scientist | ML Explorer | Pattern Seeker*
+# 👨‍🚀 Hi, I'm proudastronaut  
+### *Data Scientist | ML Explorer | Space-Coded Thinker*
 
 </div>
 
 <div align="center">
 
 🪐  
-<img src="https://raw.githubusercontent.com/proudastronaut/proudastronaut/main/assets/orbiting_planet.gif" width="90px" height="90px" alt="Planet" />
-<img src="https://raw.githubusercontent.com/proudastronaut/proudastronaut/main/assets/spinning_saturn.gif" width="90px" height="90px" alt="Rotating Saturn" />
-<img src="https://raw.githubusercontent.com/proudastronaut/proudastronaut/main/assets/space_orbit.gif" width="90px" height="90px" alt="Orbit" />
+<img src="https://raw.githubusercontent.com/proudastronaut/proudastronaut/main/assets/orbiting_planet.gif" width="90px" alt="Planet" />
+<img src="https://raw.githubusercontent.com/proudastronaut/proudastronaut/main/assets/spinning_saturn.gif" width="90px" alt="Saturn" />
+<img src="https://raw.githubusercontent.com/proudastronaut/proudastronaut/main/assets/space_orbit.gif" width="90px" alt="Orbiting Object" />
 🪐  
 
 </div>
@@ -25,15 +25,14 @@
 
 ## 🌌 About Me
 
-Curious explorer of the data universe.  
-Engineer of systematic thinking.  
-Believer in beautiful plots and clean architecture.
+Curious mind floating through the universe of data.  
+Fueled by curiosity, code, and coffee ☕🚀
 
-- 📊 I build data products that tell clear, visual stories  
-- 🤖 I design and train robust machine learning models  
-- 🚀 I love combining math, code, and creativity
+- 🛠️ Building intelligent systems that *explain themselves*
+- 🧪 Passionate about experiments, clean data & clean code
+- 🌍 Bridging statistics with storytelling & real-world value
 
-> 💫 *"Somewhere, something incredible is waiting to be known."* — Carl Sagan
+> 🌠 *"Somewhere, something incredible is waiting to be known."* — Carl Sagan
 
 ---
 
@@ -57,23 +56,23 @@ Believer in beautiful plots and clean architecture.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&theme=chartreuse-dark&title_color=00FF9C&icon_color=00FFF3&text_color=FFFFFF&bg_color=0D1117&hide_border=true&show_icons=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=chartreuse-dark&hide_border=true&title_color=00FF9C&text_color=FFFFFF&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=proudastronaut&theme=chartreuse-dark&title_color=00FF9C&icon_color=00FFF3&text_color=FFFFFF&bg_color=0D1117&hide_border=true&show_icons=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proudastronaut&layout=compact&theme=chartreuse-dark&hide_border=true&title_color=00FF9C&text_color=FFFFFF&bg_color=0D1117" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight&hide_border=true" width="95%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=proudastronaut&theme=tokyonight&hide_border=true" width="95%" />
 </p>
 
 ---
 
-## 🌠 Reach Me
+## 🌠 Let’s Connect
 
 <p align="center">
   <a href="mailto:your.email@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://yourportfolio.com" target="_blank">
@@ -84,5 +83,5 @@ Believer in beautiful plots and clean architecture.
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D3C&height=100&section=footer&text=Thanks%20for%20traveling%20through%20my%20space!%20🚀%20&fontColor=FFFFFF&fontSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D3C&height=100&section=footer&text=Thanks%20for%20exploring%20my%20universe%20🚀&fontColor=FFFFFF&fontSize=16" />
 </div>
