@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/banner_space_ds.svg" alt="banner" width="100%" />
 
-# 🌠 Hello, I'm [Your Name] 👩‍🚀
+# 🌠 Hi, there! 👩‍🚀
 ### *Data Scientist navigating the universe of data.*
 
 </div>
