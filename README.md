@@ -1,7 +1,13 @@
 <!-- README for GitHub profile: @proudastronaut | Cosmic Minimalist Theme -->
 
-# 👨‍🚀 Hi, I'm proudastronaut  
-### *Data Scientist | ML Explorer | Space-Coded Thinker*
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+
+<h1>👨‍🚀 Hi, I'm proudastronaut</h1>
+<h3><i>Data Scientist | ML Explorer | Space-Coded Thinker</i></h3>
 
 ---
 
@@ -10,11 +16,20 @@
 Curious mind floating through the universe of data.  
 Fueled by curiosity, code, and coffee ☕🚀
 
-- 🛠️ Building intelligent systems that *explain themselves*
-- 🧪 Passionate about experiments, clean data & clean code
-- 🌍 Bridging statistics with storytelling & real-world value
+- 🛠️ Building intelligent systems that *explain themselves*  
+- 🧪 Passionate about experiments, clean data & clean code  
+- 🌍 Bridging statistics with storytelling & real-world value  
 
-> 🌠 *"Somewhere, something incredible is waiting to be known."* — Carl Sagan
+> 🌠 <i>"Somewhere, something incredible is waiting to be known."</i> — Carl Sagan
+
+</td>
+<td>
+  <img src="https://raw.githubusercontent.com/proudastronaut/proudastronaut/main/assets/1.png" width="200" alt="Avatar Astronaut"/>
+</td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
@@ -38,21 +53,6 @@ Fueled by curiosity, code, and coffee ☕🚀
 </p>
 
 ---
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=proudastronaut&theme=chartreuse-dark&title_color=00FF9C&icon_color=00FFF3&text_color=FFFFFF&bg_color=0D1117&hide_border=true&show_icons=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proudastronaut&layout=compact&theme=chartreuse-dark&hide_border=true&title_color=00FF9C&text_color=FFFFFF&bg_color=0D1117" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=proudastronaut&theme=tokyonight&hide_border=true" width="95%" />
-</p>
-
----
-
-## 🌠 Let’s Connect
 
 <p align="center">
   <a href="mailto:your.email@example.com" target="_blank">
