@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://images.unsplash.com/photo-1581291519174-ef11498d1cf5?auto=format&fit=crop&w=1350&q=80" width="100%" alt="Cosmic Banner"/>
+<img src="https://raw.githubusercontent.com/novatorem/novatorem/master/assets/space-banner.svg" width="100%" alt="Cosmic Banner"/>
 
 <br />
 
@@ -14,9 +14,9 @@
 <div align="center">
 
 🪐  
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/orbiting_planet.gif" width="90px" height="90px" alt="Planet" />
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/spinning_saturn.gif" width="90px" height="90px" alt="Rotating Saturn" />
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/space_orbit.gif" width="90px" height="90px" alt="Orbit" />
+<img src="https://raw.githubusercontent.com/proudastronaut/proudastronaut/main/assets/orbiting_planet.gif" width="90px" height="90px" alt="Planet" />
+<img src="https://raw.githubusercontent.com/proudastronaut/proudastronaut/main/assets/spinning_saturn.gif" width="90px" height="90px" alt="Rotating Saturn" />
+<img src="https://raw.githubusercontent.com/proudastronaut/proudastronaut/main/assets/space_orbit.gif" width="90px" height="90px" alt="Orbit" />
 🪐  
 
 </div>
