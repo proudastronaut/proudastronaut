@@ -14,9 +14,7 @@
 <div align="center">
 
 🪐  
-<img src="https://raw.githubusercontent.com/proudastronaut/proudastronaut/main/assets/orbiting_planet.gif" width="90px" alt="Planet" />
-<img src="https://raw.githubusercontent.com/proudastronaut/proudastronaut/main/assets/spinning_saturn.gif" width="90px" alt="Saturn" />
-<img src="https://raw.githubusercontent.com/proudastronaut/proudastronaut/main/assets/space_orbit.gif" width="90px" alt="Orbiting Object" />
+<img src="https://raw.githubusercontent.com/proudastronaut/proudastronaut/main/assets/cosmo.gif" width="90px" alt="Saturn" />
 🪐  
 
 </div>
