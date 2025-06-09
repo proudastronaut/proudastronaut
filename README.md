@@ -24,7 +24,7 @@ Fueled by curiosity, code, and coffee ☕🚀
 
 </td>
 <td>
-  <img src="https://raw.githubusercontent.com/proudastronaut/proudastronaut/main/assets/1.png" width="200" alt="Avatar Astronaut"/>
+  <img src="https://raw.githubusercontent.com/proudastronaut/proudastronaut/main/assets/astro.png" width="400" alt="Avatar Astronaut"/>
 </td>
   </tr>
 </table>
@@ -57,3 +57,4 @@ Fueled by curiosity, code, and coffee ☕🚀
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D3C&height=100&section=footer&text=Thanks%20for%20exploring%20my%20universe%20🚀&fontColor=FFFFFF&fontSize=16" />
 </div>
+
