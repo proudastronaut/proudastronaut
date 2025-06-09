@@ -1,131 +1,88 @@
-<!-- 🌌 GitHub Profile: Cosmic-Themed Data Scientist ReadMe -->
+<!-- Cosmic-Themed GitHub Profile README for Data Scientist -->
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/banner_space_ds.svg" alt="banner" width="100%" />
+<img src="https://images.unsplash.com/photo-1581291519174-ef11498d1cf5?auto=format&fit=crop&w=1350&q=80" width="100%" alt="Cosmic Banner"/>
 
-# 🌠 Hi, there! 👩‍🚀
-### *Data Scientist navigating the universe of data.*
+<br />
+
+# 👩‍🚀 Hi, I'm [Your Name]  
+### *Data Scientist | ML Explorer | Pattern Seeker*
+
+</div>
+
+<div align="center">
+
+🪐  
+<img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/orbiting_planet.gif" width="90px" height="90px" alt="Planet" />
+<img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/spinning_saturn.gif" width="90px" height="90px" alt="Rotating Saturn" />
+<img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/space_orbit.gif" width="90px" height="90px" alt="Orbit" />
+🪐  
 
 </div>
 
 ---
 
-## 🛸 About Me
+## 🌌 About Me
 
-🚀 I'm a Data Scientist on a mission to turn **raw data into stellar insights**.
+Curious explorer of the data universe.  
+Engineer of systematic thinking.  
+Believer in beautiful plots and clean architecture.
 
-💫 With a strong background in **Machine Learning**, **Statistics**, and **Data Storytelling**, I enjoy building models, crunching numbers, and launching meaningful solutions into production.
+- 📊 I build data products that tell clear, visual stories  
+- 🤖 I design and train robust machine learning models  
+- 🚀 I love combining math, code, and creativity
 
-> 🛰️ *“The cosmos is within us. We are made of star-stuff.”* – Carl Sagan
+> 💫 *"Somewhere, something incredible is waiting to be known."* — Carl Sagan
 
 ---
 
-## 👨‍🚀 Tech Arsenal
+## 🛸 Tech Arsenal
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-1E2B45?style=flat-square&logo=python&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/-Pandas-1E2B45?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/-NumPy-1E2B45?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/-scikit--learn-1E2B45?style=flat-square&logo=scikit-learn&logoColor=orange" />
-  <img src="https://img.shields.io/badge/-SQL-1E2B45?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PyTorch-1E2B45?style=flat-square&logo=pytorch&logoColor=red" />
-  <img src="https://img.shields.io/badge/-TensorFlow-1E2B45?style=flat-square&logo=tensorflow&logoColor=orange" />
-  <img src="https://img.shields.io/badge/-Matplotlib-1E2B45?style=flat-square&logo=graphQL&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-1E2B45?style=flat-square&logo=docker&logoColor=cyan" />
-  <img src="https://img.shields.io/badge/-Git-1E2B45?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-## 🌌 Featured Projects
-
-|
- 🚀 Project 
-|
- 🌠 Description 
-|
- 🛠️ Tech Stack 
-|
-|
------------
-|
-----------------
-|
----------------
-|
-|
-[
-🌕 Lunar Recommender
-](
-https://github.com/yourusername/lunar-recommender
-)
-|
- Recommendation engine for sci-fi books and films using collaborative filtering 
-|
-`Python`
-, 
-`LightFM`
-, 
-`Flask`
-|
-|
-[
-🪐 Space Sales Forecasting
-](
-https://github.com/yourusername/space-sales-forecasting
-)
-|
- Predicting intergalactic product demand using time-series and LSTM 
-|
-`TensorFlow`
-, 
-`Pandas`
-, 
-`Plotly`
-|
-|
-[
-👽 Alien Segmentation
-](
-https://github.com/yourusername/alien-segmentation
-)
-|
- Unsupervised clustering of customers from five exoplanets 
-|
-`KMeans`
-, 
-`Seaborn`
-, 
-`Scikit-learn`
-|
-
----
-
-## 🌠 Let's Connect
+## 📈 GitHub Stats
 
 <p align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/-Email-1E2B45?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/-LinkedIn-1E2B45?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/-Portfolio-1E2B45?style=for-the-badge&logo=internet-explorer&logoColor=white" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&theme=chartreuse-dark&title_color=00FF9C&icon_color=00FFF3&text_color=FFFFFF&bg_color=0D1117&hide_border=true&show_icons=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=chartreuse-dark&hide_border=true&title_color=00FF9C&text_color=FFFFFF&bg_color=0D1117" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight&hide_border=true" width="95%" />
 </p>
 
 ---
 
-## 🧠 GitHub Stats
+## 🌠 Reach Me
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=spread&color=0D0D3C&height=100&section=footer&text=Thank%20you%20for%20landing%20here!%20🚀&fontColor=FFFFFF&fontSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D3C&height=100&section=footer&text=Thanks%20for%20traveling%20through%20my%20space!%20🚀%20&fontColor=FFFFFF&fontSize=16" />
 </div>
