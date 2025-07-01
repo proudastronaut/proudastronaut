@@ -24,7 +24,7 @@ Fueled by curiosity, code, and coffee ☕🚀
 
 </td>
 <td>
-  <img src="https://raw.githubusercontent.com/proudastronaut/proudastronaut/main/assets/3084.jpg" width="400" alt="Avatar Astronaut"/>
+  <img src="https://raw.githubusercontent.com/proudastronaut/proudastronaut/main/assets/cosmo.png" width="400" alt="Avatar Astronaut"/>
 </td>
   </tr>
 </table>
